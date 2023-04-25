@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Ysabeau', sans-serif;
+    background-color: darkseagreen;
+}
+
+.header_div 
+{
+    background: coral;
+    color: rgb(40, 68, 86);
+}
+
+.header_div p
+{
+   font-family: 'Merriweather', sans-serif;
+   font-weight: bold;
+   letter-spacing: 2px;
+   font-size: 12px;
+}
+
+.main_div button
+{
+   font-family: 'Times New Roman', Times, serif;
+   margin-top: 30px;
+   width: 130px;
+   font-weight: bold;
+   letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    background-color: coral;
+    color: black;
+    width: 100%;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(73, 68, 71);
+    position: fixed;
+    bottom: 0;
+}
